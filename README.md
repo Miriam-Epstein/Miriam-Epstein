@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Miriam 👋
 
-<!--
-**Miriam-Epstein/Miriam-Epstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full‑stack developer focused on building clean, accessible products.
 
-Here are some ideas to get you started:
+## Featured projects
+- [Project A](https://link) — one‑liner about problem and solution.
+- [Project B](https://link) — Tech: React, Node.js, Docker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+
+## Contact
+[LinkedIn](https://link) · [Portfolio](https://link) · [Email](mailto:you@example.com)
