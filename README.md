@@ -1,61 +1,82 @@
-<!-- Hero -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1D2671,100:C33764&height=140&text=Miriam%20Epstein&fontColor=ffffff&fontAlign=50&fontSize=48&desc=Full‑stack%20Developer&descAlign=50&descAlignY=75" alt="header"/>
-</p>
+## Miriam Epstein — Software Developer
 
-## 👋 About me
-- Full‑stack developer focused on building clean, accessible products
-- Passionate about UX, performance, and data‑driven decisions
-- Currently exploring AI assistants and modern frontend architectures
+[Email](mailto:m0533123308@gmail.com) • +972-53-312-3308 • `github.com/Miriam-Epstein`
 
-## 🧰 Tech stack
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=FF9900)
+> Primary language: English (for reach and discoverability). A concise Hebrew version appears below.
 
-## 🚀 Featured projects
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Project A</h3>
-      <p>One‑liner: what problem it solves and your impact.</p>
-      <p>
-        <a href="https://github.com/Miriam-Epstein/PROJECT_A"><b>Repo</b></a> •
-        <a href="https://demo.example.com"><b>Live demo</b></a>
-      </p>
-      <sub>React · Node · PostgreSQL</sub>
-    </td>
-    <td width="50%">
-      <h3>Project B</h3>
-      <p>Key outcome/metrics or technical challenge you solved.</p>
-      <p>
-        <a href="https://github.com/Miriam-Epstein/PROJECT_B"><b>Repo</b></a> •
-        <a href="https://demo.example.com"><b>Live demo</b></a>
-      </p>
-      <sub>Next.js · Prisma · AWS</sub>
-    </td>
-  </tr>
-</table>
+### About me
+System-minded Software Developer with strong ownership, teamwork, and communication. I thrive in collaborative teams, enjoy breaking down complex problems, and keep learning new tools quickly. Looking to contribute in a professional, fast-paced environment and deliver high-quality, user-focused solutions.
 
-## 🏆 Highlights
-- Led feature X that improved Y by Z%
-- Built CI/CD with tests and preview deployments
-- Mentored teammates and wrote internal docs
+### Featured projects
+- Airy — Product landing + e‑commerce
+  - React, Tailwind CSS, MUI; animated icon highlights, testimonials, points of sale
+  - Contact form integrated with Google Sheets; checkout via Grow; fully responsive
+- JustLawIsrael — Legal platform (DiversiTech, Jul 2025)
+  - Full‑stack with React, Node.js, Express, Supabase, Git (branches/flows)
+  - Led a small team; planned and implemented complex tasks; agile delivery
+- Recipe Manager (Apr 2025)
+  - Angular, Node.js, Express, MongoDB; REST API; full CRUD, reactive forms, responsive UI
+- Game Store (Dec 2024)
+  - ASP.NET Core Web API (C#) backend; React + Redux frontend; SQL Server
+  - Auth, cart, and catalog management; modern, responsive UX
 
-## 📈 Activity snapshot
-<!-- Optional: you can remove this whole section if לא רוצים גרפים -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Miriam-Epstein&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Miriam-Epstein&theme=tokyonight&hide_border=true" height="150" />
-</p>
+### Experience
+- Oct 2025 – Present — Developer, early‑stage venture
+  - System design participation, collaborative planning, task ownership in a dynamic environment
+  - Rapid learning and application of new tools and technologies to ship innovative features
 
-## ✍️ Writing / Talks
-- Title — short line about topic · [Link](https://link)
+### Tech stack
+- Languages: C, C#, Java, Python, JavaScript/TypeScript
+- Frontend: React, Angular 18, HTML5, CSS3, Tailwind, MUI, Bootstrap
+- Backend: Node.js, Express, ASP.NET Core, REST APIs
+- Databases: SQL Server, MongoDB, Supabase
+- Tooling: Git, JSON, XML, Entity Framework, WinForms, Linux/Windows
 
-## 📫 Contact
-[LinkedIn](https://link) · [Portfolio](https://link) · [Email](mailto:you@example.com)
+### Education
+- 2023–2025 — Practical Software Engineering (MAHAT), graduating with honors; Ultra Code (KamaTech) professional training; pursuing a teaching certification (Ministry of Education)
+- 2020–2023 — High school: Communications and Computer Science track; Saled honors; MOE technological certification
+
+### Languages
+Hebrew — native • English — advanced
+
+---
+
+## מרים אפשטיין — מפתחת תוכנה
+
+[m0533123308@gmail.com](mailto:m0533123308@gmail.com) • ‎+972‑53‑312‑3308 • `github.com/Miriam-Epstein`
+
+### עליי
+מפתחת עם חשיבה מערכתית, אחריות אישית גבוהה, עבודת צוות ותקשורת בינאישית מצוינת. שואפת לסביבה מקצועית ואתגרית, ללמידה מתמשכת ולמתן פתרונות איכותיים הממוקדים במשתמש.
+
+### פרויקטים נבחרים
+- Airy — אתר תדמית ומכירות
+  - React, Tailwind CSS, MUI; אייקונים מונפשים, ממליצים, נקודות מכירה
+  - טופס יצירת קשר מחובר ל‑Google Sheets; סליקה דרך Grow; רספונסיבי מלא
+- JustLawIsrael — פלטפורמה משפטית (DiversiTech, יולי 2025)
+  - פיתוח Full‑Stack: React, Node.js, Express, Supabase, Git (ענפים/תהליכים)
+  - הובלת צוות קטן, תכנון ויישום משימות מורכבות, עבודה מתודולוגית Agile
+- מערכת לניהול מתכונים (אפריל 2025)
+  - Angular, Node.js, Express, MongoDB; API מבוסס REST; CRUD מלא, טפסים ריאקטיביים
+- חנות משחקים (דצמבר 2024)
+  - ASP.NET Core Web API (C#), React + Redux, SQL Server; התחברות, סל וקיטלוג; UI מודרני רספונסיבי
+
+### ניסיון
+- אוקטובר 2025 – הווה — מפתחת במיזם בשלבי התחלה
+  - השתתפות באפיון ותכנון מערכת, עבודה בצוות דינמי וניהול משימות
+  - למידה מהירה ויישום טכנולוגיות חדשות לפיתוח יכולות חדשניות
+
+### טכנולוגיות
+- שפות: C, C#, Java, Python, JavaScript/TypeScript
+- צד לקוח: React, Angular 18, HTML5, CSS3, Tailwind, MUI, Bootstrap
+- צד שרת: Node.js, Express, ASP.NET Core, REST
+- מסדי נתונים: SQL Server, MongoDB, Supabase
+- כלים: Git, JSON, XML, Entity Framework, WinForms, Linux/Windows
+
+### השכלה
+- 2023–2025 — הנדסאית תוכנה (מה"ט) בהצטיינות; Ultra Code (KamaTech); לקראת תעודת הוראה ממשרד החינוך
+- 2020–2023 — תיכון: מגמת תקשוב ומדעי המחשב; תעודת סאלד והסמכה טכנולוגית של משרד החינוך
+
+### שפות
+עברית — שפת אם • אנגלית — רמה גבוהה
+
+
