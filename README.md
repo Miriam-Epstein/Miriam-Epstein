@@ -43,11 +43,4 @@ Building features in an early‑stage product: system design participation, coll
 
 If you’d like to discuss a project or collaborate, feel free to reach out by email.
 
-### השכלה
-- 2023–2025 — הנדסאית תוכנה (מה"ט) בהצטיינות; Ultra Code (KamaTech); לקראת תעודת הוראה ממשרד החינוך
-- 2020–2023 — תיכון: מגמת תקשוב ומדעי המחשב; תעודת סאלד והסמכה טכנולוגית של משרד החינוך
-
-### שפות
-עברית — שפת אם • אנגלית — רמה גבוהה
-
-
+ 
