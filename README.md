@@ -22,12 +22,16 @@
   <!-- GIF directly after header and contacts -->
   <img src="assets/CodeCodingGIF.gif" alt="Coding animation" width="820" style="max-width:100%; border-radius:14px; box-shadow:0 6px 24px rgba(0,0,0,.18);"/>
 
-  <!-- Content card with only the provided text -->
-  <div style="max-width:880px; text-align:left; margin:24px auto; padding:22px 26px; background:#ffffff; border-radius:14px; box-shadow:0 8px 28px rgba(0,0,0,.12);">
-    <h3 style="margin:0 0 12px 0; font-family:Segoe UI, Inter, system-ui, -apple-system, Arial, sans-serif;">Profile</h3>
-    <p style="margin:0; line-height:1.6; font-size:16px; color:#111827; font-family:Segoe UI, Inter, system-ui, -apple-system, Arial, sans-serif;">
-      System-oriented developer with a proactive mindset, strong personal responsibility, and initiative. Highly motivated with task
-      management and interpersonal skills fostering effective teamwork, eager to contribute and grow in a challenging environment.
+  <!-- Minimal, bold gradient text lines (no "Profile" heading) -->
+  <div style="max-width:980px; margin:28px auto 12px; padding:0 16px;">
+    <p style="margin:8px 0; font-size:26px; font-weight:800; letter-spacing:.2px; line-height:1.35; font-family:Segoe UI, Inter, system-ui, -apple-system, Arial, sans-serif; background:linear-gradient(90deg,#ff2dfd, #7c3aed, #2dd4ff); -webkit-background-clip:text; background-clip:text; color:transparent;">
+      System‑oriented developer with initiative and strong ownership.
+    </p>
+    <p style="margin:8px 0; font-size:26px; font-weight:800; letter-spacing:.2px; line-height:1.35; font-family:Segoe UI, Inter, system-ui, -apple-system, Arial, sans-serif; background:linear-gradient(90deg,#ff2dfd, #7c3aed, #2dd4ff); -webkit-background-clip:text; background-clip:text; color:transparent;">
+      Team player with excellent communication and task management.
+    </p>
+    <p style="margin:8px 0; font-size:26px; font-weight:800; letter-spacing:.2px; line-height:1.35; font-family:Segoe UI, Inter, system-ui, -apple-system, Arial, sans-serif; background:linear-gradient(90deg,#ff2dfd, #7c3aed, #2dd4ff); -webkit-background-clip:text; background-clip:text; color:transparent;">
+      Eager to learn, build, and ship in fast, challenging environments.
     </p>
   </div>
 </div>
