@@ -27,22 +27,29 @@
   <!-- GIF directly after header and contacts -->
   <img src="assets/CodeCodingGIF.gif" alt="Coding animation" width="860" style="max-width:100%; border-radius:16px; box-shadow:0 8px 28px rgba(0,0,0,.22); margin-top:6px;"/>
 
-  <!-- Modern grid chips with gradient border and text -->
-  <div style="max-width:1100px; margin:30px auto; padding:0 18px; display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:16px;">
-    <div style="background:linear-gradient(90deg,#ff2dfd,#7c3aed,#2dd4ff); padding:2px; border-radius:14px;">
-      <div style="background:#ffffff; border-radius:12px; padding:18px 16px; text-align:center;">
-        <span style="font-size:22px; font-weight:900; background:linear-gradient(90deg,#ff2dfd,#7c3aed,#2dd4ff); -webkit-background-clip:text; background-clip:text; color:transparent; font-family:Segoe UI, Inter, system-ui, -apple-system, Arial, sans-serif;">System‑oriented • initiative • strong ownership</span>
-      </div>
-    </div>
-    <div style="background:linear-gradient(90deg,#ff2dfd,#7c3aed,#2dd4ff); padding:2px; border-radius:14px;">
-      <div style="background:#ffffff; border-radius:12px; padding:18px 16px; text-align:center;">
-        <span style="font-size:22px; font-weight:900; background:linear-gradient(90deg,#ff2dfd,#7c3aed,#2dd4ff); -webkit-background-clip:text; background-clip:text; color:transparent; font-family:Segoe UI, Inter, system-ui, -apple-system, Arial, sans-serif;">Teamwork • communication • task management</span>
-      </div>
-    </div>
-    <div style="background:linear-gradient(90deg,#ff2dfd,#7c3aed,#2dd4ff); padding:2px; border-radius:14px;">
-      <div style="background:#ffffff; border-radius:12px; padding:18px 16px; text-align:center;">
-        <span style="font-size:22px; font-weight:900; background:linear-gradient(90deg,#ff2dfd,#7c3aed,#2dd4ff); -webkit-background-clip:text; background-clip:text; color:transparent; font-family:Segoe UI, Inter, system-ui, -apple-system, Arial, sans-serif;">Eager to learn • contribute • grow</span>
-      </div>
+  <!-- Hero card with logo-like background and neon text -->
+  <div style="max-width:1100px; margin:34px auto 22px; padding:0 18px;">
+    <div style="border-radius:26px; padding:42px 28px; box-shadow:0 18px 60px rgba(0,0,0,.35); background:radial-gradient(1200px 600px at 20% 20%, #ff2dfd 0%, #7c3aed 35%, #1e2a78 70%, #0b1220 100%);">
+      <svg width="100%" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="About lines">
+        <defs>
+          <!-- Warm neon gradient like the logo lettering -->
+          <linearGradient id="letterGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#ff3abf"/>
+            <stop offset="50%" stop-color="#ff8a3d"/>
+            <stop offset="100%" stop-color="#ffd54a"/>
+          </linearGradient>
+          <filter id="txtGlow" x="-50%" y="-50%" width="200%" height="200%">
+            <feGaussianBlur stdDeviation="6" result="blur"/>
+            <feMerge>
+              <feMergeNode in="blur"/>
+              <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+          </filter>
+        </defs>
+        <text x="50%" y="38%" text-anchor="middle" fill="url(#letterGrad)" font-size="40" font-weight="1000" font-family="Segoe UI, Inter, system-ui, -apple-system, Arial, sans-serif" filter="url(#txtGlow)">System‑oriented • initiative • strong ownership</text>
+        <text x="50%" y="62%" text-anchor="middle" fill="url(#letterGrad)" font-size="40" font-weight="1000" font-family="Segoe UI, Inter, system-ui, -apple-system, Arial, sans-serif" filter="url(#txtGlow)">Teamwork • communication • task management</text>
+        <text x="50%" y="86%" text-anchor="middle" fill="url(#letterGrad)" font-size="40" font-weight="1000" font-family="Segoe UI, Inter, system-ui, -apple-system, Arial, sans-serif" filter="url(#txtGlow)">Eager to learn • contribute • grow</text>
+      </svg>
     </div>
   </div>
 </div>
