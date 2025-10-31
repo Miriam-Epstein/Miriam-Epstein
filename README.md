@@ -1,13 +1,3 @@
-<table width="100%">
-<tr>
-<td align="center">
-  <img src="assets/image (7).png" width="100%" alt="Miriam Epstein Logo" style="border-radius:20px; box-shadow: 0 10px 40px rgba(255,45,253,0.2);"/>
-</td>
-</tr>
-</table>
-
-<br/>
-
 <div align="center">
 
 # Software Developer | Miryam Epstein
