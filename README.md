@@ -1,12 +1,9 @@
 <div align="center">
-  
-<img src="https://github.com/Miriam-Epstein.png" width="150" style="border-radius:50%; border:4px solid #00FFCC;">
 
-<br><br>
+
 
 ### 👋 Hi, I'm **Miryam Epstein**
 
----
 
 ### 🚀 Tech Stack
 <img src="https://img.shields.io/badge/JavaScript-1E004A?style=for-the-badge&logo=javascript&logoColor=00FFCC">
