@@ -5,7 +5,6 @@
 <br><br>
 
 ### 👋 Hi, I'm **Miryam Epstein**
-**Software Developer | Web & Backend Development**
 
 ---
 
@@ -33,12 +32,5 @@
 <a href="https://github.com/Miriam-Epstein">
 <img src="https://img.shields.io/badge/GitHub-1E004A?style=for-the-badge&logo=github&logoColor=00FFCC">
 </a>
-
----
-
-### 🌱 Currently Learning
-**Advanced Full-Stack • System Design • DevOps basics**
-
-💡 Always learning, building, improving.
 
 </div>
