@@ -1,6 +1,6 @@
 <div align="center">
 
- Software Developer | Miryam Epstein 💻
+ Software Developer | Miryam Epstein 
 
 
 [![Email](https://img.shields.io/badge/M0533123308%40GMAIL.COM-FF00FF?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=1F2228)](mailto:m0533123308@gmail.com)
