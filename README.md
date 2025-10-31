@@ -2,7 +2,6 @@
     
 # Software Developer | Miryam Epstein
 
-**Passionate about crafting innovative and scalable web solutions.**
 
 &nbsp;
 
