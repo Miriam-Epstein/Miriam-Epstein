@@ -1,13 +1,44 @@
 <div align="center">
+  
+<img src="https://github.com/Miriam-Epstein.png" width="150" style="border-radius:50%; border:4px solid #00FFCC;">
 
-[![Software Developer | Miryam Epstein](https://img.shields.io/badge/Software%20Developer%20|%20Miryam%20Epstein-1E004A?style=for-the-badge&color=00FF00&logoColor=00FFFF)](https://github.com/Miriam-Epstein)
+<br><br>
 
-&nbsp;
+### 👋 Hi, I'm **Miryam Epstein**
+**Software Developer | Web & Backend Development**
 
+---
 
-[![Email](https://img.shields.io/badge/M0533123308%40GMAIL.COM-00FF00?style=for-the-badge&logo=gmail&logoColor=000000&labelColor=1E004A)](mailto:m0533123308@gmail.com)
-[![Phone](https://img.shields.io/badge/%2B972--53--312--3308-00FFFF?style=for-the-badge&logo=phone&logoColor=000000&labelColor=1E004A)](tel:+972533123308)
-[![GitHub](https://img.shields.io/badge/GITHUB.COM%2FMIRIAM--EPSTEIN-00FF00?style=for-the-badge&logo=github&logoColor=000000&labelColor=1E004A)](https://github.com/Miriam-Epstein)
-    
+### 🚀 Tech Stack
+<img src="https://img.shields.io/badge/JavaScript-1E004A?style=for-the-badge&logo=javascript&logoColor=00FFCC">
+<img src="https://img.shields.io/badge/TypeScript-1E004A?style=for-the-badge&logo=typescript&logoColor=00FFCC">
+<img src="https://img.shields.io/badge/React-1E004A?style=for-the-badge&logo=react&logoColor=00FFCC">
+<img src="https://img.shields.io/badge/Angular-1E004A?style=for-the-badge&logo=angular&logoColor=00FFCC">
+<img src="https://img.shields.io/badge/Node.js-1E004A?style=for-the-badge&logo=node.js&logoColor=00FFCC">
+<img src="https://img.shields.io/badge/Express-1E004A?style=for-the-badge&logo=express&logoColor=00FFCC">
+<img src="https://img.shields.io/badge/MongoDB-1E004A?style=for-the-badge&logo=mongodb&logoColor=00FFCC">
+<img src="https://img.shields.io/badge/SQL-1E004A?style=for-the-badge&logo=postgresql&logoColor=00FFCC">
+
+---
+
+### 📫 Contact
+<a href="mailto:m0533123308@gmail.com">
+<img src="https://img.shields.io/badge/Email-00FF00?style=for-the-badge&logo=gmail&logoColor=000">
+</a>
+
+<a href="tel:+972533123308">
+<img src="https://img.shields.io/badge/Phone-00FFCC?style=for-the-badge&logo=phone&logoColor=000">
+</a>
+
+<a href="https://github.com/Miriam-Epstein">
+<img src="https://img.shields.io/badge/GitHub-1E004A?style=for-the-badge&logo=github&logoColor=00FFCC">
+</a>
+
+---
+
+### 🌱 Currently Learning
+**Advanced Full-Stack • System Design • DevOps basics**
+
+💡 Always learning, building, improving.
 
 </div>
