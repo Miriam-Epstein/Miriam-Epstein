@@ -1,3 +1,5 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Miryam_Epstein-21C07A?style=for-the-badge&logo=github&logoColor=white&labelColor=0077FF&color=FF9900">
-</p>
+<div align="center">
+  <h2 style="color:#21C07A; font-weight:900;">
+    👋 Hi, I'm <span style="color:#0077FF">Miryam Epstein</span>
+  </h2>
+</div>
