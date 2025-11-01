@@ -1,5 +1,14 @@
 <div align="center">
 
-## 👋 Hi, I'm **<span style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-weight: bold; font-size: 1.2em; display: inline-block;">Miryam Epstein</span>** ✨
+<h2 style="
+  font-weight: bold;
+  background: linear-gradient(90deg, #21C07A, #FF9900, #0077FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 2.2em;
+  margin-bottom: 8px;
+">
+👋 Hi, I'm <b>Miryam Epstein</b>
+</h2>
 
 </div>
