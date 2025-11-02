@@ -56,7 +56,7 @@
 #### 🍳 Recipes Fullstack Application
 
 **טכנולוגיות:**
-- Full Stack Application
+- Angular • Node.js • MongoDB
 
 <br>
 
@@ -77,12 +77,3 @@
 - 📧 **Email:** m0533123308@gmail.com
 - 📱 **Phone:** 053-312-3308
 
----
-
-<div align="center">
-
-**⭐ Star my repositories if you find them helpful! ⭐**
-
-Made with 💙 by Miryam Epstein
-
-</div>
