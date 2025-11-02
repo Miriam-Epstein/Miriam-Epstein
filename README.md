@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Miriam-Epstein/Miriam-Epstein/main/assets/Project_fullStake.png" 
+<img src="./assets/Project_fullStake.png" 
      alt="GameShop Screenshot" 
      style="width: 100%; max-width: 800px; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); margin-bottom: 20px;"/>
 
@@ -52,7 +52,7 @@ Built with **React**, **.NET Core**, and **SQL Server**
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Miriam-Epstein/Miriam-Epstein/main/assets/recipesFullstack.png" 
+<img src="./assets/recipesFullstack.png" 
      alt="Recipes App Screenshot" 
      style="width: 100%; max-width: 800px; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); margin-bottom: 20px;"/>
 
