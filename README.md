@@ -1,14 +1,18 @@
 <div align="center">
-
-<h2> עמוד זה בתהליך פיתוח </h2>
   
 # 👋 Hi, I'm Miryam Epstein
 
+### Full Stack Developer
+
+[![GitHub](https://img.shields.io/badge/GitHub-Miriam--Epstein-181717?style=flat-square&logo=github)](https://github.com/Miriam-Epstein)
+
 ---
 
-##  My Projects
+## 🚀 My Projects
 
 </div>
+
+### 🎮 GameShop - E-Commerce Platform
 
 <table>
 <tr>
@@ -27,10 +31,6 @@
 <br>
 
 <div align="left">
-<a href="https://raw.githubusercontent.com/Miriam-Epstein/Miriam-Epstein/main/assets/Project_fullStake.mp4" target="_blank">
-  <img src="https://img.shields.io/badge/🎥_צפייה_בסרטון_הדמו-667eea?style=flat-square&logoColor=white" alt="Watch Demo" style="margin-bottom: 10px; display: block;"/>
-</a>
-
 <a href="https://github.com/Miriam-Epstein/Project_fullStake" target="_blank">
   <img src="https://img.shields.io/badge/🔗_גישה_לרפרזיטורי-181717?style=flat-square&logo=github&logoColor=white" alt="View Repository"/>
 </a>
@@ -41,6 +41,9 @@
 </table>
 
 ---
+
+### 🍳 Recipes Fullstack Application
+
 <table>
 <tr>
 <td width="55%">
@@ -58,10 +61,6 @@
 <br>
 
 <div align="left">
-<a href="https://raw.githubusercontent.com/Miriam-Epstein/Miriam-Epstein/main/assets/recipesFullstack.mp4" target="_blank">
-  <img src="https://img.shields.io/badge/🎥_צפייה_בסרטון_הדמו-f093fb?style=flat-square&logoColor=white" alt="Watch Demo" style="margin-bottom: 10px; display: block;"/>
-</a>
-
 <a href="https://github.com/Miriam-Epstein/recipesFullstack" target="_blank">
   <img src="https://img.shields.io/badge/🔗_גישה_לרפרזיטורי-181717?style=flat-square&logo=github&logoColor=white" alt="View Repository"/>
 </a>
@@ -70,5 +69,20 @@
 </td>
 </tr>
 </table>
+
+---
+
+## 📧 Contact Me
+
+- 📧 **Email:** m0533123308@gmail.com
+- 📱 **Phone:** 053-312-3308
+
+---
+
+<div align="center">
+
+**⭐ Star my repositories if you find them helpful! ⭐**
+
+Made with 💙 by Miryam Epstein
 
 </div>
