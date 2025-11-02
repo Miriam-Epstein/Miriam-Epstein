@@ -42,7 +42,6 @@
      style="width: 100%; max-width: 800px; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); margin-bottom: 20px;"/>
 
 
-Built with modern web technologies
 
 <div style="margin: 20px 0; display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
   <a href="https://raw.githubusercontent.com/Miriam-Epstein/Miriam-Epstein/main/assets/recipesFullstack.mp4" target="_blank" style="text-decoration: none;">
