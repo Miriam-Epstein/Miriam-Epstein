@@ -2,9 +2,6 @@
   
 # 👋 Hi, I'm Miryam Epstein
 
-### Full Stack Developer
-
-[![GitHub](https://img.shields.io/badge/GitHub-Miriam--Epstein-181717?style=flat-square&logo=github)](https://github.com/Miriam-Epstein)
 
 ---
 
