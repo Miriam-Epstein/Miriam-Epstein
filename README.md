@@ -91,34 +91,7 @@ Built with modern web technologies
 - 📱 Responsive design
 - 🎨 Modern user interface
 
-**Tech Stack:** Full Stack Application
 
----
-
-## 📊 Project Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Miriam-Epstein&show_icons=true&theme=radical)
-
-</div>
-
----
-
-## 🛠️ Technologies I Use
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
-
----
 
 ## 📧 Contact Me
 
@@ -126,11 +99,3 @@ Built with modern web technologies
 - 📱 **Phone:** 053-312-3308
 
 ---
-
-<div align="center">
-
-**⭐ Star my repositories if you find them helpful! ⭐**
-
-Made with 💙 by Miryam Epstein
-
-</div>
