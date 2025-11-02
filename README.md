@@ -15,9 +15,7 @@
      alt="GameShop Screenshot" 
      style="width: 100%; max-width: 800px; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); margin-bottom: 20px;"/>
 
-**A modern, full-stack e-commerce platform for online game shopping**
 
-Built with **React**, **.NET Core**, and **SQL Server**
 
 <div style="margin: 20px 0; display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
   <a href="https://raw.githubusercontent.com/Miriam-Epstein/Miriam-Epstein/main/assets/Project_fullStake.mp4" target="_blank" style="text-decoration: none;">
@@ -43,7 +41,6 @@ Built with **React**, **.NET Core**, and **SQL Server**
      alt="Recipes App Screenshot" 
      style="width: 100%; max-width: 800px; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); margin-bottom: 20px;"/>
 
-**A complete full-stack recipe management application**
 
 Built with modern web technologies
 
@@ -64,18 +61,5 @@ Built with modern web technologies
 
 
 ---
-
-## 📧 Contact Me
-
-- 📧 **Email:** m0533123308@gmail.com
-- 📱 **Phone:** 053-312-3308
-
----
-
-<div align="center">
-
-**⭐ Star my repositories if you find them helpful! ⭐**
-
-Made with 💙 by Miryam Epstein
 
 </div>
