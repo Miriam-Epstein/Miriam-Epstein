@@ -1,6 +1,6 @@
 <div align="center">
 
-<p> עמוד זה בתהליך פיתוח </p>
+<h2> עמוד זה בתהליך פיתוח </h2>
   
 # 👋 Hi, I'm Miryam Epstein
 
