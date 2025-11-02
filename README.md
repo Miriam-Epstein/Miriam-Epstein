@@ -52,7 +52,7 @@ Built with **React**, **.NET Core**, and **SQL Server**
 
 <div align="center">
 
-<img src="./assets/recipesFullstack.png" 
+<img src="./assets/recipesFullstack.img" 
      alt="Recipes App Screenshot" 
      style="width: 100%; max-width: 800px; height: auto; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); margin-bottom: 20px;"/>
 
