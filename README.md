@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 # 👋 Hi, I'm Miryam Epstein
 
 ### Full Stack Developer
@@ -14,9 +14,37 @@
 
 <div align="center">
 
-**[🔗 View Repository](https://github.com/Miriam-Epstein/Project_fullStake)** • **[🎥 Watch Demo Video](https://raw.githubusercontent.com/Miriam-Epstein/Miriam-Epstein/main/assets/Project_fullStake.mp4)**
+**[🔗 View Repository](https://github.com/Miriam-Epstein/Project_fullStake)**
 
-[![Watch the video](https://img.shields.io/badge/▶️-Watch%20Demo%20Video-red?style=for-the-badge)](https://raw.githubusercontent.com/Miriam-Epstein/Miriam-Epstein/main/assets/Project_fullStake.mp4)
+</div>
+
+#### 🎥 Demo Video
+
+<div align="center">
+
+<!-- 🔥 אפשרות 1: אם העלת ל-YouTube - שחררי את הקוד למטה והחלפי YOUR_VIDEO_ID -->
+<!--
+<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+  <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" alt="GameShop Demo" width="600" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+</a>
+<br/><br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border-radius: 10px;"></iframe>
+-->
+
+<!-- 🔥 אפשרות 2: תמונת מקדימה עם כפתור Play (הוסף תמונה מקדימה בתיקיית assets בשם Project_fullStake-thumbnail.png) -->
+<!--
+<a href="https://raw.githubusercontent.com/Miriam-Epstein/Miriam-Epstein/main/assets/Project_fullStake.mp4" target="_blank">
+  <img src="https://raw.githubusercontent.com/Miriam-Epstein/Miriam-Epstein/main/assets/Project_fullStake-thumbnail.png" alt="GameShop Demo - Click to Play" width="600" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); position: relative; cursor: pointer;"/>
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-size: 60px;">▶️</div>
+</a>
+-->
+
+<!-- 🔥 אפשרות 3: כפתור פשוט עם קישור (עובד עכשיו) -->
+<a href="https://raw.githubusercontent.com/Miriam-Epstein/Miriam-Epstein/main/assets/Project_fullStake.mp4" target="_blank">
+  <img src="https://img.shields.io/badge/▶️-Watch%20Full%20Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoSize=30" alt="Watch Demo Video"/>
+</a>
+
+**💡 טיפ:** להצגה ישירה - העלי ל-YouTube והשתמשי בקוד שמופיע בהערה למעלה!
 
 </div>
 
@@ -39,9 +67,36 @@ Built with **React**, **.NET Core**, and **SQL Server**
 
 <div align="center">
 
-**[🔗 View Repository](https://github.com/Miriam-Epstein/recipesFullstack)** • **[🎥 Watch Demo Video](https://raw.githubusercontent.com/Miriam-Epstein/Miriam-Epstein/main/assets/recipesFullstack.mp4)**
+**[🔗 View Repository](https://github.com/Miriam-Epstein/recipesFullstack)**
 
-[![Watch the video](https://img.shields.io/badge/▶️-Watch%20Demo%20Video-red?style=for-the-badge)](https://raw.githubusercontent.com/Miriam-Epstein/Miriam-Epstein/main/assets/recipesFullstack.mp4)
+</div>
+
+#### 🎥 Demo Video
+
+<div align="center">
+
+<!-- 🔥 אפשרות 1: אם העלת ל-YouTube - שחררי את הקוד למטה והחלפי YOUR_VIDEO_ID -->
+<!--
+<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+  <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg" alt="Recipes App Demo" width="600" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+</a>
+<br/><br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="border-radius: 10px;"></iframe>
+-->
+
+<!-- 🔥 אפשרות 2: תמונת מקדימה עם כפתור Play (הוסף תמונה מקדימה בתיקיית assets בשם recipesFullstack-thumbnail.png) -->
+<!--
+<a href="https://raw.githubusercontent.com/Miriam-Epstein/Miriam-Epstein/main/assets/recipesFullstack.mp4" target="_blank">
+  <img src="https://raw.githubusercontent.com/Miriam-Epstein/Miriam-Epstein/main/assets/recipesFullstack-thumbnail.png" alt="Recipes App Demo - Click to Play" width="600" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); position: relative; cursor: pointer;"/>
+</a>
+-->
+
+<!-- 🔥 אפשרות 3: כפתור פשוט עם קישור (עובד עכשיו) -->
+<a href="https://raw.githubusercontent.com/Miriam-Epstein/Miriam-Epstein/main/assets/recipesFullstack.mp4" target="_blank">
+  <img src="https://img.shields.io/badge/▶️-Watch%20Full%20Demo%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoSize=30" alt="Watch Demo Video"/>
+</a>
+
+**💡 טיפ:** להצגה ישירה - העלי ל-YouTube והשתמשי בקוד שמופיע בהערה למעלה!
 
 </div>
 
