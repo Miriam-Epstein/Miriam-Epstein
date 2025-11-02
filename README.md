@@ -7,7 +7,8 @@
 
 ##  My Projects
 
-### 🎮 GameShop - E-Commerce Platform
+### 🎮 GameShop fullStake
+
 
 <div align="center">
 
@@ -33,7 +34,7 @@
 
 ---
 
-### 🍳 Recipes Fullstack Application
+### 🍳 Recipes Fullstack 
 
 <div align="center">
 
