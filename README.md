@@ -2,9 +2,6 @@
   
 # 👋 Hi, I'm Miryam Epstein
 
-### Full Stack Developer
-
-[![GitHub](https://img.shields.io/badge/GitHub-Miriam--Epstein-181717?style=flat-square&logo=github)](https://github.com/Miriam-Epstein)
 
 ---
 
@@ -34,16 +31,6 @@ Built with **React**, **.NET Core**, and **SQL Server**
     </div>
   </a>
 </div>
-
-#### Key Features:
-- 🛒 Smart Shopping Cart with real-time updates
-- 👤 Customer Dashboard with purchase history
-- 🔧 Admin Panel for product management
-- 🎨 Modern UI with beautiful blue gradients
-- 📱 Fully responsive design
-
-**Tech Stack:** React • Redux • ASP.NET Core • Entity Framework • SQL Server
-
 </div>
 
 ---
@@ -73,17 +60,7 @@ Built with modern web technologies
   </a>
 </div>
 
-#### Key Features:
-- 📝 Recipe management (add, edit, delete)
-- 🔍 Search and filter recipes
-- 📱 Responsive design
-- 🎨 Modern user interface
-
-**Tech Stack:** Full Stack Application
-
 </div>
-
-
 
 
 ---
