@@ -12,8 +12,6 @@
 
 </div>
 
-### 🎮 GameShop - E-Commerce Platform
-
 <table>
 <tr>
 <td width="55%">
@@ -45,9 +43,6 @@
 </table>
 
 ---
-
-### 🍳 Recipes Fullstack Application
-
 <table>
 <tr>
 <td width="55%">
@@ -77,20 +72,5 @@
 </td>
 </tr>
 </table>
-
----
-
-## 📧 Contact Me
-
-- 📧 **Email:** m0533123308@gmail.com
-- 📱 **Phone:** 053-312-3308
-
----
-
-<div align="center">
-
-**⭐ Star my repositories if you find them helpful! ⭐**
-
-Made with 💙 by Miryam Epstein
 
 </div>
