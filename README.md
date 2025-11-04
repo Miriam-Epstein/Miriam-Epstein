@@ -5,10 +5,14 @@
 # 👋 Hi, I'm Miryam Epstein
 
 ### Full Stack Developer
-
-[![GitHub](https://img.shields.io/badge/GitHub-Miriam--Epstein-181717?style=flat-square&logo=github)](https://github.com/Miriam-Epstein)
-
 ---
+## Experience
+
+-	    יולי 2025 | DiversiTech  פרויקט   JustLawIsrael
+פיתוח Full Stack לפלטפורמה המשפטית JustLawIsrael, תוך שימוש ב־React, Node.js, Express, Supabase ו־ Git לניהול גרסאות וענפים.  ניהול והובלת צוות קטן, תוך תכנון ויישום משימות מורכבות ,קבלת החלטות טכנולוגיות והתאמת פתרונות כתיבת קוד , ניתוח דרישות, עבודה בסביבת Agile ותקשורת עם הצוות. דרשו ראייה מערכתית, אחריות ועמידה בלוחות זמנים.                       ¬                                                                                                                                                                                            
+https://legalcore.pages.dev/
+
+
 
 ## 🚀 My Projects
 
