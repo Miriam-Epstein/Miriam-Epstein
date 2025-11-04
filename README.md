@@ -8,9 +8,39 @@
 ---
 ## Experience
 
--	    יולי 2025 | DiversiTech  פרויקט   JustLawIsrael
-פיתוח Full Stack לפלטפורמה המשפטית JustLawIsrael, תוך שימוש ב־React, Node.js, Express, Supabase ו־ Git לניהול גרסאות וענפים.  ניהול והובלת צוות קטן, תוך תכנון ויישום משימות מורכבות ,קבלת החלטות טכנולוגיות והתאמת פתרונות כתיבת קוד , ניתוח דרישות, עבודה בסביבת Agile ותקשורת עם הצוות. דרשו ראייה מערכתית, אחריות ועמידה בלוחות זמנים.                       ¬                                                                                                                                                                                            
-https://legalcore.pages.dev/
+### ⚖️ JustLawIsrael - Legal Platform
+
+<table>
+<tr>
+<td width="55%">
+  
+<img src="./assets/JustLawIsrael.png" alt="JustLawIsrael Screenshot" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+
+</td>
+<td width="45%" valign="top">
+
+#### ⚖️ JustLawIsrael - Legal Platform
+
+**יולי 2025 | DiversiTech**
+
+פיתוח Full Stack לפלטפורמה המשפטית JustLawIsrael, תוך ניהול והובלת צוות קטן, תכנון ויישום משימות מורכבות, קבלת החלטות טכנולוגיות והתאמת פתרונות.
+
+**טכנולוגיות:**
+- React • Node.js • Express • Supabase • Git
+
+<br>
+
+<div align="left">
+<a href="https://legalcore.pages.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_גישה_לאתר-0066cc?style=flat-square&logoColor=white" alt="Visit Website" style="margin-bottom: 10px; display: block;"/>
+</a>
+</div>
+
+</td>
+</tr>
+</table>
+
+---
 
 
 
