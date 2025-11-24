@@ -40,6 +40,37 @@
 </tr>
 </table>
 
+### ✨ Airy - אתר מכירות ותדמית
+
+<table>
+<tr>
+<td width="55%">
+  
+<img src="./assets/AIRY.png" alt="Airy Website Screenshot" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+
+</td>
+<td width="45%" valign="top">
+
+#### ✨ Airy - אתר מכירות ותדמית
+
+**ספטמבר 2025 - הווה | פרויקט פיתוח**
+
+פיתוח אתר מכירות ותדמית למוצר חדשני, כולל הצגת יתרונות באייקונים מונפשים, אזור ממליצים, נקודות מכירה וטופס יצירת קשר מחובר ל־Google Sheets. שולבה אינטגרציה לעמוד סליקה. הפיתוח ב־React עם Tailwind ו־MUI, תוך הקפדה על רספונסיבי ועמידה בדרישות עסקיות.
+
+**טכנולוגיות:**
+- React • Tailwind • MUI • Google Sheets
+
+<br>
+
+<div align="left">
+<a href="https://github.com/Miriam-Epstein/airy-website" target="_blank">
+  <img src="https://img.shields.io/badge/🔗_גישה_לרפרזיטורי-181717?style=flat-square&logo=github&logoColor=white" alt="View Repository"/>
+</a>
+</div>
+</td>
+</tr>
+</table>
+
 ---
 
 
@@ -49,7 +80,6 @@
 </div>
 
 ### 🎮 GameShop - E-Commerce Platform
-
 <table>
 <tr>
 <td width="55%">
@@ -79,7 +109,6 @@
 ---
 
 ### 🍳 Recipes Fullstack Application
-
 <table>
 <tr>
 <td width="55%">
@@ -112,4 +141,3 @@
 
 - 📧 **Email:** m0533123308@gmail.com
 - 📱 **Phone:** 053-312-3308
-
