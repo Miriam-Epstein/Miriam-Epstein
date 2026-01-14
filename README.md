@@ -71,11 +71,11 @@
 
 <br>
 
-<div align="left">
+<!-- <div align="left">
 <a href="https://legalcore.pages.dev/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_גישה_לאתר-0066cc?style=flat-square&logoColor=white" alt="Visit Website" style="margin-bottom: 10px; display: block;"/>
 </a>
-</div>
+</div> -->
 
 </td>
 </tr>
