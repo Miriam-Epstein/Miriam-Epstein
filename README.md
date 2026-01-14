@@ -77,6 +77,12 @@
 </a>
 </div> -->
 
+<div align="left">
+<a href="https://github.com/diversi-tech/legalcore.git" target="_blank">
+  <img src="https://img.shields.io/badge/🔗_גישה_לרפרזיטורי-181717?style=flat-square&logo=github&logoColor=white" alt="View Repository"/>
+</a>
+</div>
+
 </td>
 </tr>
 </table>
