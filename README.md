@@ -7,7 +7,36 @@
 ### Full Stack Developer
 ---
 ## Experience
+### 🚀 SmartAIQ - Startup Project
 
+<table>
+<tr>
+<td width="55%">
+  
+<img src="./assets/SmartAIQ.png" alt="SmartAIQ Screenshot" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+</td>
+<td width="45%" valign="top">
+
+#### 🚀 SmartAIQ - Startup Project
+
+**אוקטובר 2025 – הווה | מפתחת תוכנה בצוות סטרטאפ**
+
+פיתוח ותחזוקת מערכת Web בסביבת Production עם משתמשים אמיתיים. עבודה ב־React תוך שימוש ב־Hooks ו־Components, וניהול State גלובלי באמצעות Redux Toolkit. פיתוח ממשקים מורכבים ודינמיים לצד שרת עם REST APIs ו־Authentication. טיפול מקצועי ב־API errors וב־edge cases והובלת פיצ'רים מקצה לקצה משלב האפיון ועד תחזוקת הקוד. שיפור UI/UX במערכת הרצה בענן, שימוש ב‑Git לניהול גרסאות ותיקון באגים.
+
+**טכנולוגיות:**
+- React • Redux Toolkit • REST APIs • Authentication • Git • Cloud Deployment
+
+<br>
+
+<div align="left">
+<a href="https://www.smartaiq.ai/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Live_Demo-0E7AFE?style=flat-square&logo=netlify&logoColor=white" alt="View Live Demo"/>
+</a>
+</div>
+
+</td>
+</tr>
+</table>
 
 
 ### ✨ Airy - אתר מכירות ותדמית
