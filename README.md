@@ -21,10 +21,13 @@
 
 **אוקטובר 2025 – הווה | מפתחת תוכנה בצוות סטרטאפ**
 
-פיתוח ותחזוקת מערכת Web בסביבת Production עם משתמשים אמיתיים. עבודה ב‑React עם Hooks ו‑Components, ניהול State גלובלי ב‑Redux Toolkit, פיתוח ממשקים דינמיים לצד שרת עם REST APIs ו‑Authentication. טיפול ב‑API errors והובלת פיצ'רים מקצה לקצה. שיפור UI/UX במערכת בענן ושימוש ב‑Git לניהול גרסאות.
+פיתוח ותחזוקת מערכת Web בסביבת Production עם משתמשים אמיתיים.
+עבודה ב‑React עם Hooks ו‑Components, ניהול State גלובלי ב‑Redux Toolkit, פיתוח ממשקים דינמיים לצד שרת עם REST APIs ו‑Authentication.
+טיפול ב‑API errors והובלת פיצ'רים מקצה לקצה. שיפור UI/UX במערכת בענן ושימוש ב‑Git לניהול גרסאות.
 
 **טכנולוגיות:**  
-- React • Python • Django • Redux Toolkit • REST APIs • Git
+- React • Python • Django • Redux Toolkit • REST APIs
+  • Git
 
 
 <br>
