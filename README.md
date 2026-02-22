@@ -33,6 +33,10 @@
 <br>
 
 <div align="left">
+
+  <a href="https://github.com/SmartAiQ" target="_blank">
+  <img src="https://img.shields.io/badge/🔗_גישה_לרפרזיטורי-181717?style=flat-square&logo=github&logoColor=white" alt="View Repository"/>
+</a>
 <a href="https://www.smartaiq.ai/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Live_Demo-0E7AFE?style=flat-square&logo=netlify&logoColor=white" alt="View Live Demo"/>
 </a>
