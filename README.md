@@ -65,7 +65,7 @@
 <br>
 
 <div align="left">
-<a href="https://github.com/Miriam-Epstein/airy-website" target="_blank">
+<a href="https://github.com/Miriam-Epstein/airy-pro" target="_blank">
   <img src="https://img.shields.io/badge/🔗_גישה_לרפרזיטורי-181717?style=flat-square&logo=github&logoColor=white" alt="View Repository"/>
 </a>
 
