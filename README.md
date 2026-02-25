@@ -73,7 +73,7 @@
   <img src="https://img.shields.io/badge/🔗_גישה_לרפרזיטורי-181717?style=flat-square&logo=github&logoColor=white" alt="View Repository"/>
 </a>
 
-  <a href="https://airy-pro.netlify.app/" target="_blank">
+  <a href="https://airy-pro.co.il/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-0E7AFE?style=flat-square&logo=netlify&logoColor=white" />
   </a>
 </div>
