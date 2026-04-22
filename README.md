@@ -18,16 +18,12 @@
 </td>
 <td width="45%" valign="top">
 
-**Full Stack Developer | Oct 2025 – Present**
+-	Develop end-to-end web applications, focusing on Frontend (React, Tailwind CSS, TypeScript).
+-	Build and maintain Backend services using Python (Django), including RESTful APIs and data management.
+-	Collaborate within an Agile development team, contributing to efficient workflows and iterative delivery.
+-	Utilize Git and GitHub for version control, code management, and team collaboration.
+-	Leverage AI-based tools to optimize development processes and improve code efficiency.
 
-Production web application used by real users in a startup environment.
-
-- Built responsive frontend using React and modern component architecture  
-- Developed backend services using Python (Django) and REST APIs  
-- Managed global state with Redux Toolkit  
-- Implemented authentication and system integrations  
-- Worked in an Agile team with end-to-end feature ownership  
-- Used Git & GitHub for version control and collaboration  
 
 **Tech Stack:** React • Python • Django • Redux Toolkit • REST APIs • Git
 
@@ -46,7 +42,7 @@ Production web application used by real users in a startup environment.
 </table>
 
 
-### ✨ Airy - אתר מכירות ותדמית
+#### ✨ Airy – E- commerce Project
 
 <table>
 <tr>
@@ -56,14 +52,15 @@ Production web application used by real users in a startup environment.
 </td>
 <td width="45%" valign="top">
 
-#### ✨ Airy - אתר מכירות ותדמית
+ 
 
-**ספטמבר 2025 - הווה | פרויקט פיתוח**
+-	Lead development of a branding and e-commerce website using React, Tailwind CSS, and Material-UI.
+-	Implement third-party integrations and cloud deployment with scalable, efficient solutions.
+-	Use Git/GitHub and AI tools to streamline development processes.
+-	Deliver high-quality, responsive, client-focused user experiences.
 
-פיתוח אתר מכירות ותדמית למוצר חדשני, כולל הצגת יתרונות באייקונים מונפשים, אזור ממליצים, נקודות מכירה וטופס יצירת קשר מחובר ל־Google Sheets. שולבה אינטגרציה לעמוד סליקה. הפיתוח ב־React עם Tailwind ו־MUI, תוך הקפדה על רספונסיבי ועמידה בדרישות עסקיות.
 
-**טכנולוגיות:**
-- React • Tailwind • MUI • Google Sheets
+**Tech Stack:** React • Tailwind • MUI • Git
 
 <br>
 
@@ -97,13 +94,13 @@ Production web application used by real users in a startup environment.
 <td width="45%" valign="top">
 
 #### ⚖️ JustLawIsrael - Legal Platform
+-	Develop a full-stack legal platform using React, Node.js, Express, Supabase, and Git.
+-	Lead a small team, coordinating tasks and ensuring efficient Agile workflows.
+-	Design and implement complex end-to-end features to enhance user experience and system operations.
+-	Use Git for version control and process optimization.
 
-**יולי 2025 | DiversiTech**
 
-פיתוח Full Stack לפלטפורמה המשפטית JustLawIsrael, תוך ניהול והובלת צוות קטן, תכנון ויישום משימות מורכבות, קבלת החלטות טכנולוגיות והתאמת פתרונות.
-
-**טכנולוגיות:**
-- React • Node.js • Express • Supabase • Git
+**Tech Stack:** React • Node.js • Express • Supabase • Git
 
 <br>
 
@@ -143,10 +140,11 @@ Production web application used by real users in a startup environment.
 </td>
 <td width="45%" valign="top">
 
-#### 🎮 GameShop - E-Commerce Platform
+-	Built a full-featured recipe app with Angular, Node.js, Express, and MongoDB.
+-	Developed REST APIs, CRUD, reactive forms, and a responsive UI.
 
 **טכנולוגיות:**
-- React • Redux • ASP.NET Core • Entity Framework • SQL Server
+**Tech Stack:** React • Redux • ASP.NET Core • Entity Framework • SQL Server
 
 <br>
 
@@ -172,10 +170,11 @@ Production web application used by real users in a startup environment.
 </td>
 <td width="45%" valign="top">
 
-#### 🍳 Recipes Fullstack Application
+-	Built an e-commerce platform with React, Redux, ASP.NET Core (C#), Web API, and SQL.
+-	Implemented authentication, shopping cart, catalog, and responsive UI.
 
 **טכנולוגיות:**
-- Angular • Node.js • MongoDB
+**Tech Stack:** Angular • Node.js • MongoDB
 
 <br>
 
