@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/CodeCodingGIF.gif" alt="Coding Animation" width="100%"/>
-
 # 👋 Hi, I'm Miryam Epstein
 
 ### Full Stack Developer | Software Engineer
@@ -16,8 +14,12 @@
 
 ## 💼 Work Experience
 
+<div align="center">
+
 ### 🚀 Full-Stack Developer | SmartAIQ (Startup)
 **October 2024 – Present**
+
+</div>
 
 <table>
 <tr>
@@ -49,8 +51,12 @@
 
 ---
 
+<div align="center">
+
 ### 💼 Frontend Developer (Freelance) | Airy E-commerce
 **September 2024 – Present**
+
+</div>
 
 <table>
 <tr>
@@ -81,8 +87,12 @@
 
 ---
 
+<div align="center">
+
 ### ⚖️ Full-Stack Developer | DiversiTech - JustLawIsrael
 **July 2024**
+
+</div>
 
 <table>
 <tr>
@@ -112,8 +122,12 @@
 
 ## 🚀 Projects
 
+<div align="center">
+
 ### 🎮 GameShop - E-Commerce Platform
 **December 2024**
+
+</div>
 
 <table>
 <tr>
@@ -140,8 +154,12 @@
 
 ---
 
+<div align="center">
+
 ### 🍳 Recipe Management System
 **April 2025**
+
+</div>
 
 <table>
 <tr>
