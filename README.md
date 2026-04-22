@@ -1,46 +1,45 @@
 <div align="center">
 
-<h2> עמוד זה בתהליך פיתוח</h2>
-  
 # 👋 Hi, I'm Miryam Epstein
 
-### Full Stack Developer
----
+### Software Engineer | Full Stack Developer
+
+
 ## Experience
-### 🚀 SmartAIQ - Startup Project
+
+### 🚀 SmartAIQ — Startup Project
 
 <table>
 <tr>
 <td width="55%">
-  
-<img src="./assets/SmartAIQGood.png" alt="SmartAIQ Screenshot" style="width: 100%; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+
+<img src="./assets/SmartAIQGood.png" alt="SmartAIQ Screenshot" style="width: 100%; border-radius: 12px; box-shadow: 0 6px 16px rgba(0,0,0,0.15);"/>
+
 </td>
 <td width="45%" valign="top">
 
-#### 🚀 SmartAIQ - Startup Project
+**Full Stack Developer | Oct 2025 – Present**
 
-**אוקטובר 2025 – הווה | מפתחת תוכנה בצוות סטרטאפ**
+Production web application used by real users in a startup environment.
 
-פיתוח ותחזוקת מערכת Web בסביבת Production עם משתמשים אמיתיים.
-עבודה ב‑React עם Hooks ו‑Components, ניהול State גלובלי ב‑Redux Toolkit, פיתוח ממשקים דינמיים לצד שרת עם REST APIs ו‑Authentication.
-טיפול ב‑API errors והובלת פיצ'רים מקצה לקצה. שיפור UI/UX במערכת בענן ושימוש ב‑Git לניהול גרסאות.
+- Built responsive frontend using React and modern component architecture  
+- Developed backend services using Python (Django) and REST APIs  
+- Managed global state with Redux Toolkit  
+- Implemented authentication and system integrations  
+- Worked in an Agile team with end-to-end feature ownership  
+- Used Git & GitHub for version control and collaboration  
 
-**טכנולוגיות:**  
-- React • Python • Django • Redux Toolkit • REST APIs
-  • Git
-
+**Tech Stack:** React • Python • Django • Redux Toolkit • REST APIs • Git
 
 <br>
 
-<div align="left">
+<a href="https://github.com/SmartAiQ" target="_blank">
+  <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/SmartAiQ" target="_blank">
-  <img src="https://img.shields.io/badge/🔗_גישה_לרפרזיטורי-181717?style=flat-square&logo=github&logoColor=white" alt="View Repository"/>
-</a>
 <a href="https://www.smartaiq.ai/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Live_Demo-0E7AFE?style=flat-square&logo=netlify&logoColor=white" alt="View Live Demo"/>
+  <img src="https://img.shields.io/badge/Live_Demo-0E7AFE?style=flat-square&logo=netlify&logoColor=white"/>
 </a>
-</div>
 
 </td>
 </tr>
