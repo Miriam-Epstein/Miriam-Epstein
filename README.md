@@ -13,7 +13,7 @@
 <div align="center">
 
 ### 🚀 Full-Stack Developer | SmartAIQ (Startup)
-   2025 – Present
+**2025 – Present**
 
 </div>
 
@@ -50,7 +50,7 @@
 <div align="center">
 
 ### 💼 Frontend Developer (Freelance) | Airy E-commerce
-    2025 - 2026 
+**2025 - 2026** 
 
 </div>
 
@@ -86,7 +86,7 @@
 <div align="center">
 
 ### ⚖️ Full-Stack Developer | DiversiTech - JustLawIsrael
-   2025
+**2025**
 
 </div>
 
@@ -121,7 +121,7 @@
 <div align="center">
 
 ### 💼 JobTracker - Job Search Management System
-     2026 
+**2026** 
 
 </div>
 
@@ -156,7 +156,7 @@
 <div align="center">
 
 ### 🍳 Recipe Management System
-    2025 
+**2025** 
 
 </div>
 
@@ -188,7 +188,7 @@
 <div align="center">
 
 ### 🎮 GameShop - E-Commerce Platform
-    2024 
+**2024** 
 
 </div>
 
