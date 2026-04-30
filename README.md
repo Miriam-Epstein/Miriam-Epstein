@@ -4,10 +4,6 @@
 
 ### Full Stack Developer | Software Engineer
 
-[![Email](https://img.shields.io/badge/Email-m0533123308@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m0533123308@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-053--312--3308-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+972533123308)
-[![GitHub](https://img.shields.io/badge/GitHub-Miriam--Epstein-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Miriam-Epstein)
-
 </div>
 
 ---
