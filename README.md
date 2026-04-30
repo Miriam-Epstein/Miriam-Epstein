@@ -124,6 +124,39 @@
 
 <div align="center">
 
+### 💼 JobTracker - Job Search Management System
+**2026**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="./assets/JobTracker.png" alt="JobTracker Screenshot" width="100%" style="border-radius: 10px;"/>
+
+</td>
+<td width="50%" valign="top">
+
+- Developed a job tracking system using Java Spring Boot, Spring Security (JWT), React, and Docker
+- Designed secure REST APIs, implemented CRUD operations, and integrated JPA with H2 database
+- Built authentication system with JWT for secure user login and registration
+- Implemented job application tracking with status management (Applied → Interview → Technical → Accepted/Rejected)
+
+**Tech Stack:** Java • Spring Boot • Spring Security • JWT • JPA • H2 • React • Tailwind CSS • Docker
+
+<a href="https://github.com/Miriam-Epstein/JobTracker-FullStack-SpringBoot" target="_blank">
+  <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
 ### 🎮 GameShop - E-Commerce Platform
 **December 2024**
 
