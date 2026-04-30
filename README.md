@@ -13,7 +13,7 @@
 <div align="center">
 
 ### 🚀 Full-Stack Developer | SmartAIQ (Startup)
-**October 2024 – Present**
+** 2025 October – Present**
 
 </div>
 
@@ -50,7 +50,7 @@
 <div align="center">
 
 ### 💼 Frontend Developer (Freelance) | Airy E-commerce
-**September 2024 – Present**
+** 2025 - 2026 **
 
 </div>
 
@@ -86,7 +86,7 @@
 <div align="center">
 
 ### ⚖️ Full-Stack Developer | DiversiTech - JustLawIsrael
-**July 2024**
+** 2025 **
 
 </div>
 
@@ -121,7 +121,7 @@
 <div align="center">
 
 ### 💼 JobTracker - Job Search Management System
-**2026**
+** 2026 **
 
 </div>
 
@@ -149,44 +149,14 @@
 </tr>
 </table>
 
----
 
-<div align="center">
-
-### 🎮 GameShop - E-Commerce Platform
-**December 2024**
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-<img src="./assets/Project_fullStake.png" alt="GameShop Screenshot" width="100%" style="border-radius: 10px;"/>
-
-</td>
-<td width="50%" valign="top">
-
-- Built an e-commerce platform with React, Redux, ASP.NET Core (C#), Web API, and SQL
-- Implemented authentication, shopping cart, product catalog, and responsive UI
-- Developed RESTful APIs and integrated Entity Framework for data management
-
-**Tech Stack:** React • Redux • ASP.NET Core • C# • Entity Framework • SQL Server
-
-<a href="https://github.com/Miriam-Epstein/Project_fullStake" target="_blank">
-  <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
 
 ---
 
 <div align="center">
 
 ### 🍳 Recipe Management System
-**April 2025**
+** 2025 April **
 
 </div>
 
@@ -206,6 +176,38 @@
 **Tech Stack:** Angular 18 • Node.js • Express • MongoDB
 
 <a href="https://github.com/Miriam-Epstein/recipesFullstack" target="_blank">
+  <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🎮 GameShop - E-Commerce Platform
+** 2024 December**
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="./assets/Project_fullStake.png" alt="GameShop Screenshot" width="100%" style="border-radius: 10px;"/>
+
+</td>
+<td width="50%" valign="top">
+
+- Built an e-commerce platform with React, Redux, ASP.NET Core (C#), Web API, and SQL
+- Implemented authentication, shopping cart, product catalog, and responsive UI
+- Developed RESTful APIs and integrated Entity Framework for data management
+
+**Tech Stack:** React • Redux • ASP.NET Core • C# • Entity Framework • SQL Server
+
+<a href="https://github.com/Miriam-Epstein/Project_fullStake" target="_blank">
   <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
